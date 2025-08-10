@@ -1,5 +1,5 @@
 import Card from "@mui/material/Card";
-import "./infoBox.css";
+import "./infobox.css";
 import CardContent from "@mui/material/CardContent";
 import CardMedia from "@mui/material/CardMedia";
 import AcUnitIcon from '@mui/icons-material/AcUnit';
